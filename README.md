@@ -51,9 +51,4 @@ Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://disc
 "# maratona-discover" 
 # maratona-discover
 
-# maratona-discover
-
-# maratona-discover
-
-# maratona-discover
 
